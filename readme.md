@@ -1,4 +1,4 @@
-# readme
+# STEPS
 
 ## Question 1
 
